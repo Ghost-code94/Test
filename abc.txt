@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 Date: Sat, 20 May 2023 10:05:02 -0500 (CDT)
 
 Already up-to-date.
 
-=======
-Test file!! Hello world
-Lets see
->>>>>>> 7edde54f3067511b790725a67409d842145bf0ab
