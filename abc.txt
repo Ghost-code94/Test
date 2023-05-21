@@ -1,4 +1,4 @@
 fatal: Unable to read current working directory: Operation not permitted
-fatal: Unable to read current working directory: Operation not permitted
-fatal: Unable to read current working directory: Operation not permitted
+/usr/local/bin/system_state: line 8: push.txt: Operation not permitted
+cat: push.txt: Operation not permitted
 
