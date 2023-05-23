@@ -1,4 +1,4 @@
- 1 file changed, 2 insertions(+), 2 deletions(-)
-To github.com:Ghost-code94/Test.git
-   7b45d21..fa5f904  main -> main
+==> azure-cli
+Bash completion has been installed to:
+  /opt/homebrew/etc/bash_completion.d
 
