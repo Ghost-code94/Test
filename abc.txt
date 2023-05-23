@@ -1,4 +1,4 @@
-==> azure-cli
-Bash completion has been installed to:
-  /opt/homebrew/etc/bash_completion.d
+Date: Tue, 23 May 2023 14:00:11 -0500 (CDT)
+
+Already up-to-date.
 
