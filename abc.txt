@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-libmediainfo
+Date: Tue, 23 May 2023 16:15:04 -0500 (CDT)
+
+Already up-to-date.
 
