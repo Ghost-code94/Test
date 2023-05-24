@@ -1,4 +1,4 @@
-
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+To github.com:Ghost-code94/Test.git
+   a0c9659..7adfdb7  main -> main
 
