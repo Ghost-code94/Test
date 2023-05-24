@@ -1,4 +1,4 @@
-Date: Wed, 24 May 2023 11:30:05 -0500 (CDT)
-
-Already up-to-date.
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-core failed!
+Failed to download https://formulae.brew.sh/api/formula.jws.json!
+Failed to download https://formulae.brew.sh/api/cask.jws.json!
 
