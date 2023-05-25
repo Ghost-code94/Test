@@ -1,4 +1,4 @@
-You have 1 outdated formula installed.
-You can upgrade it with brew upgrade
+To github.com:Ghost-code94/Test.git
+   f3525cc..58f7c6c  main -> main
 or list it with brew outdated.
 
