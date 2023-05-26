@@ -1,4 +1,4 @@
-Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-Removing: /opt/homebrew/Cellar/awscli/2.11.21... (13,281 files, 118.2MB)
-Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.11.21... (19.5MB)
+You have 1 outdated formula installed.
+You can upgrade it with brew upgrade
+or list it with brew outdated.
 
