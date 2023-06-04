@@ -1,4 +1,4 @@
-Date: Sat,  3 Jun 2023 22:30:04 -0500 (CDT)
-
-Already up-to-date.
+You have 5 outdated formulae installed.
+You can upgrade them with brew upgrade
+or list them with brew outdated.
 
