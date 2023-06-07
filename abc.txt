@@ -1,4 +1,4 @@
+Date: Wed,  7 Jun 2023 08:45:05 -0500 (CDT)
 
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+Already up-to-date.
 
