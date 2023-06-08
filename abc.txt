@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-core-lightning
+Date: Thu,  8 Jun 2023 15:45:03 -0500 (CDT)
+
+Already up-to-date.
 
