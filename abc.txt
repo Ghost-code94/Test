@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-lowdown
+Date: Fri,  9 Jun 2023 13:45:04 -0500 (CDT)
+
+Already up-to-date.
 
