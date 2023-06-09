@@ -1,4 +1,4 @@
+Updated 1 tap (homebrew/core).
+==> New Formulae
 lowdown
-==> New Casks
-apple-hewlett-packard-printer-drivers
 
