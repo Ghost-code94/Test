@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Already: command not found
-fatal error
-Already up-to-date.
+Date: Mon, 12 Jun 2023 21:38:33 -0500 (CDT)
+
+Error: Failed to download https://formulae.brew.sh/api/formula.jws.json!
 
