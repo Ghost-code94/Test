@@ -1,4 +1,4 @@
 
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+Bash completion has been installed to:
+  /opt/homebrew/etc/bash_completion.d
 
