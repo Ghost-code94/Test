@@ -1,4 +1,4 @@
-Date: Tue, 20 Jun 2023 06:45:07 -0500 (CDT)
 
-Already up-to-date.
+fatal: unable to access 'https://github.com/Homebrew/homebrew-cask/': Recv failure: Connection reset by peer
+Error: Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-cask failed!
 
