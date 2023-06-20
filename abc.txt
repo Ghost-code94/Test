@@ -1,4 +1,4 @@
-
-Bash completion has been installed to:
-  /opt/homebrew/etc/bash_completion.d
+/usr/local/bin/system_state: line 12: [: missing `]'
+fatal error
+/opt/homebrew/etc/bash_completion.d
 
