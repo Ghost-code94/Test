@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-getmail6
+Date: Tue, 20 Jun 2023 13:45:08 -0500 (CDT)
+
+Already up-to-date.
 
