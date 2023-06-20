@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Error:: command not found
-fatal error
-Error: Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-cask failed!
+Date: Tue, 20 Jun 2023 12:15:16 -0500 (CDT)
+
+Already up-to-date.
 
