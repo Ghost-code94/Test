@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [: missing `]'
+/usr/local/bin/system_state: line 12: [/opt/homebrew/etc/bash_completion.d=Already up-to-date.]: No such file or directory
 fatal error
 /opt/homebrew/etc/bash_completion.d
 
