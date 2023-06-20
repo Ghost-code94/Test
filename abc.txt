@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [/opt/homebrew/etc/bash_completion.d=Already up-to-date.]: No such file or directory
-fatal error
-/opt/homebrew/etc/bash_completion.d
+Date: Tue, 20 Jun 2023 05:35:50 -0500 (CDT)
+
+Already up-to-date.
 
