@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-cargo-generate
+Date: Tue, 20 Jun 2023 22:00:03 -0500 (CDT)
+
+Already up-to-date.
 
