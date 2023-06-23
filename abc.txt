@@ -1,4 +1,4 @@
-Date: Fri, 23 Jun 2023 08:30:03 -0500 (CDT)
+Date: Fri, 23 Jun 2023 08:45:08 -0500 (CDT)
 
-Error: Failed to download https://formulae.brew.sh/api/cask.jws.json!
+Already up-to-date.
 
