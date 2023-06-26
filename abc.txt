@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Fetching: command not found
-fatal error
-Fetching /opt/homebrew failed!
+Date: Mon, 26 Jun 2023 07:00:10 -0500 (CDT)
+
+Already up-to-date.
 
