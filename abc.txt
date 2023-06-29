@@ -1,4 +1,4 @@
-
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+==> nmap
+To use `ndiff`, you must do:
+  chmod go-w /usr/local/Cellar
 
