@@ -1,4 +1,4 @@
-==> nmap
-To use `ndiff`, you must do:
-  chmod go-w /usr/local/Cellar
+Date: Thu, 29 Jun 2023 12:32:01 -0500 (CDT)
+
+Already up-to-date.
 
