@@ -1,4 +1,4 @@
-Date: Thu, 29 Jun 2023 12:32:01 -0500 (CDT)
-
-Already up-to-date.
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-core failed!
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-cask failed!
+Updated 1 tap (homebrew/cask).
 
