@@ -1,4 +1,4 @@
-Date: Mon,  3 Jul 2023 07:49:53 -0500 (CDT)
-
-Already up-to-date.
+/usr/local/bin/system_state: line 12: [or: command not found
+fatal error
+or list it with brew outdated.
 
