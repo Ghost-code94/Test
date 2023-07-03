@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Already: command not found
-fatal error
-Already up-to-date.
+Date: Mon,  3 Jul 2023 15:06:45 -0500 (CDT)
+
+Updated 1 tap (homebrew/cask).
 
