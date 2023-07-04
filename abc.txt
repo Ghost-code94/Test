@@ -1,4 +1,4 @@
-==> New Formulae
-cargo-binstall
-driftwood
+Date: Tue,  4 Jul 2023 10:00:05 -0500 (CDT)
+
+Already up-to-date.
 
