@@ -1,4 +1,4 @@
-Date: Wed,  5 Jul 2023 06:54:33 -0500 (CDT)
-
-Already up-to-date.
+/usr/local/bin/system_state: line 12: [Error:: command not found
+fatal error
+Error: Failed to download https://formulae.brew.sh/api/cask.jws.json!
 
