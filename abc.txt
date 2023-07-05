@@ -1,4 +1,4 @@
-Date: Tue,  4 Jul 2023 15:52:11 -0500 (CDT)
-
+/usr/local/bin/system_state: line 12: [Updated: command not found
+fatal error
 Updated 1 tap (homebrew/cask).
 
