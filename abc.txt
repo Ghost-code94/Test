@@ -1,4 +1,4 @@
-==> New Formulae
-blades
+/usr/local/bin/system_state: line 12: [hex=Already up-to-date.]: command not found
+fatal error
 hex
 
