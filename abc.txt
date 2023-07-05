@@ -1,4 +1,4 @@
+Date: Wed,  5 Jul 2023 06:00:40 -0500 (CDT)
 
-Error: Failed to download https://formulae.brew.sh/api/formula.jws.json!
-Updated 1 tap (homebrew/cask).
+Already up-to-date.
 
