@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-espflash
+Date: Tue, 11 Jul 2023 13:00:04 -0500 (CDT)
+
+Already up-to-date.
 
