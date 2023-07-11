@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-ruff-lsp
+Date: Tue, 11 Jul 2023 16:30:03 -0500 (CDT)
+
+Already up-to-date.
 
