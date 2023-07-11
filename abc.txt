@@ -1,4 +1,4 @@
-Date: Tue, 11 Jul 2023 18:15:04 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/cask).
+==> New Casks
+ente
 
