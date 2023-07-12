@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [ente=Already up-to-date.]: command not found
-fatal error
-ente
+Date: Tue, 11 Jul 2023 19:45:03 -0500 (CDT)
+
+Already up-to-date.
 
