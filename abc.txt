@@ -1,4 +1,4 @@
-Date: Tue, 18 Jul 2023 15:00:19 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+pop
 
