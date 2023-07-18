@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-solr@8.11
+Updated 1 tap (homebrew/cask).
+==> New Casks
+fedistar
 
