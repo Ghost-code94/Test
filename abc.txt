@@ -1,4 +1,4 @@
-Date: Wed, 19 Jul 2023 01:15:03 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+quictls
 
