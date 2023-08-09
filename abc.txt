@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [img2pdf=Already up-to-date.]: command not found
-fatal error
-img2pdf
+Updated 1 tap (homebrew/core).
+==> New Formulae
+medusa
 
