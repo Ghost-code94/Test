@@ -1,4 +1,4 @@
-You have 1 outdated formula installed.
-You can upgrade it with brew upgrade
-or list it with brew outdated.
+Date: Wed,  9 Aug 2023 23:00:04 -0500 (CDT)
+
+Already up-to-date.
 
