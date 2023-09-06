@@ -1,4 +1,4 @@
-Date: Wed,  6 Sep 2023 00:15:04 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+eza
 
