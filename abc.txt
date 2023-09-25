@@ -1,4 +1,4 @@
-  brew untap homebrew/core
-  brew untap homebrew/cask
-Already up-to-date.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /opt/homebrew/Cellar/openssl@3/3.1.2... (6,495 files, 28.4MB)
+Removing: /Users/ghost/Library/Caches/Homebrew/openssl@3--3.1.2... (7.7MB)
 
