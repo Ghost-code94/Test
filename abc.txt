@@ -1,4 +1,4 @@
-Date: Tue, 26 Sep 2023 05:30:07 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+caracal
 
