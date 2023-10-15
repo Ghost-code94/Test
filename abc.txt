@@ -1,4 +1,4 @@
-Date: Sun, 15 Oct 2023 11:45:03 -0500 (CDT)
-
-Already up-to-date.
+🍺  /opt/homebrew/Cellar/cffi/1.16.0_1: 101 files, 1.7MB
+==> Running `brew cleanup cffi`...
+Removing: /opt/homebrew/Cellar/cffi/1.16.0... (37 files, 589.5KB)
 
