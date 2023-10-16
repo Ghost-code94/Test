@@ -1,4 +1,4 @@
-Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
-Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-Removing: /opt/homebrew/Cellar/docutils/0.20.1... (263 files, 2.9MB)
+  brew untap homebrew/core
+  brew untap homebrew/cask
+Already up-to-date.
 
