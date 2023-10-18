@@ -1,4 +1,4 @@
-  brew untap homebrew/core
-  brew untap homebrew/cask
-Already up-to-date.
+/usr/local/bin/system_state: line 12: [Removing:: command not found
+fatal error
+Removing: /opt/homebrew/Cellar/awscli/2.13.26... (13,127 files, 112.5MB)
 
