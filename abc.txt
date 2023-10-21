@@ -1,4 +1,4 @@
-
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+Removing: /opt/homebrew/Cellar/awscli/2.13.26_1... (13,127 files, 112.5MB)
+Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.13.26_1... (17.6MB)
+Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.13.26... (17.5MB)
 
