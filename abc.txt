@@ -1,4 +1,4 @@
-Removing: /opt/homebrew/Cellar/awscli/2.13.26_1... (13,127 files, 112.5MB)
-Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.13.26_1... (17.6MB)
-Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.13.26... (17.5MB)
+Date: Sat, 21 Oct 2023 12:30:02 -0500 (CDT)
+
+Already up-to-date.
 
