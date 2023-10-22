@@ -1,4 +1,4 @@
-Date: Sun, 22 Oct 2023 07:30:02 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+perl-xml-parser
 
