@@ -1,4 +1,4 @@
-Date: Sun, 22 Oct 2023 19:00:05 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+node@20
 
