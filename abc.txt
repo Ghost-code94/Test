@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/cask).
-==> New Casks
-fossa
+Date: Fri, 27 Oct 2023 18:15:04 -0500 (CDT)
+
+Already up-to-date.
 
