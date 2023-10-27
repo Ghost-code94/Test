@@ -1,4 +1,4 @@
-Date: Thu, 26 Oct 2023 19:15:03 -0500 (CDT)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+gotpm
 
