@@ -1,4 +1,4 @@
-Date: Fri, 27 Oct 2023 09:45:05 -0500 (CDT)
-
+  brew untap homebrew/core
+  brew untap homebrew/cask
 Already up-to-date.
 
