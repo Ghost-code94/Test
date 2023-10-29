@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-crunchy-cli
+Date: Sat, 28 Oct 2023 23:00:04 -0500 (CDT)
+
+Already up-to-date.
 
