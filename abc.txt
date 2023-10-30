@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-patch-package
+Date: Sun, 29 Oct 2023 21:15:05 -0500 (CDT)
+
+Already up-to-date.
 
