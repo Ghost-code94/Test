@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-immer
+Date: Mon, 30 Oct 2023 22:00:06 -0400 (EDT)
+
+Already up-to-date.
 
