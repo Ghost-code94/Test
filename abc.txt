@@ -1,4 +1,4 @@
+  brew untap homebrew/core
   brew untap homebrew/cask
-curl: (28) Operation too slow. Less than 100 bytes/sec transferred the last 5 seconds
-Warning: formula.jws.json: update failed, falling back to cached version.
+Already up-to-date.
 
