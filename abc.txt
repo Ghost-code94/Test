@@ -1,4 +1,4 @@
-You can save space and time by running:
-  brew untap homebrew/core
-  brew untap homebrew/cask
+Date: Sat,  4 Nov 2023 20:30:14 -0400 (EDT)
+
+Already up-to-date.
 
