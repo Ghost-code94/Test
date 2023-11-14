@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [or: command not found
-fatal error
-or list them with brew outdated.
+
+Error: Another active Homebrew update process is already in progress.
+Please wait for it to finish or terminate it to continue.
 
