@@ -1,4 +1,4 @@
-
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+  brew untap homebrew/core
+  brew untap homebrew/cask
+Already up-to-date.
 
