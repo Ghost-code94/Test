@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/cask).
-==> New Casks
+/usr/local/bin/system_state: line 12: [hoppscotch=Already up-to-date.]: command not found
+fatal error
 hoppscotch
 
