@@ -1,4 +1,4 @@
-You have 4 outdated formulae installed.
-You can upgrade them with brew upgrade
-or list them with brew outdated.
+Date: Sat, 25 Nov 2023 20:00:05 -0600 (CST)
+
+Already up-to-date.
 
