@@ -1,4 +1,4 @@
+Date: Mon, 25 Dec 2023 13:30:04 -0600 (CST)
 
-Bash completion has been installed to:
-  /opt/homebrew/etc/bash_completion.d
+Already up-to-date.
 
