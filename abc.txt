@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-texi2mdoc
+Date: Tue, 26 Dec 2023 12:30:03 -0600 (CST)
+
+Already up-to-date.
 
