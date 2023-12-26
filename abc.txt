@@ -1,4 +1,4 @@
-==> New Casks
-ollama
-streammusic
+  brew untap homebrew/core
+  brew untap homebrew/cask
+Already up-to-date.
 
