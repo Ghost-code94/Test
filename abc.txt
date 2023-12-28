@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/cask).
-==> New Casks
-opencat
+Date: Thu, 28 Dec 2023 08:15:03 -0600 (CST)
+
+Already up-to-date.
 
