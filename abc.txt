@@ -1,4 +1,4 @@
-Date: Wed,  3 Jan 2024 11:45:04 -0600 (CST)
 
-Already up-to-date.
+Error: Another active Homebrew update process is already in progress.
+Please wait for it to finish or terminate it to continue.
 
