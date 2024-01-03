@@ -1,4 +1,4 @@
-  brew untap homebrew/core
-  brew untap homebrew/cask
+/usr/local/bin/system_state: line 12: [Updated: command not found
+fatal error
 Updated 1 tap (homebrew/cask).
 
