@@ -1,4 +1,4 @@
-Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-Removing: /opt/homebrew/Cellar/awscli/2.15.6... (13,339 files, 118.4MB)
-Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.15.6... (18.3MB)
+Date: Sat,  6 Jan 2024 12:15:05 -0600 (CST)
+
+Already up-to-date.
 
