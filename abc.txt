@@ -1,4 +1,4 @@
+You can save space and time by running:
+  brew untap homebrew/core
   brew untap homebrew/cask
-curl: (6) Could not resolve host: formulae.brew.sh
-Warning: formula.jws.json: update failed, falling back to cached version.
 
