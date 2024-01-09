@@ -1,4 +1,4 @@
-Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-Removing: /opt/homebrew/Cellar/azure-cli/2.55.0... (25,827 files, 580.9MB)
-Removing: /Users/ghost/Library/Caches/Homebrew/azure-cli--2.55.0... (49.1MB)
+Updated 1 tap (homebrew/core).
+==> New Formulae
+ruby@3.2
 
