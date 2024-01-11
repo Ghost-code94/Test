@@ -1,4 +1,4 @@
-You have 1 outdated formula installed.
-You can upgrade it with brew upgrade
+/usr/local/bin/system_state: line 12: [or: command not found
+fatal error
 or list it with brew outdated.
 
