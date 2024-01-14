@@ -1,4 +1,4 @@
-You can save space and time by running:
-  brew untap homebrew/core
-  brew untap homebrew/cask
+c3c
+==> New Casks
+znote
 
