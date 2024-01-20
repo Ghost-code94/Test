@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Already: command not found
-fatal error
-Already up-to-date.
+  brew install python3
+
+See: https://docs.brew.sh/Homebrew-and-Python
 
