@@ -1,4 +1,4 @@
-Date: Sat, 20 Jan 2024 19:15:06 -0600 (CST)
-
+/usr/local/bin/system_state: line 12: [Already: command not found
+fatal error
 Already up-to-date.
 
