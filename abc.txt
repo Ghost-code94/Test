@@ -1,4 +1,4 @@
-You have 1 outdated formula installed.
-You can upgrade it with brew upgrade
-or list it with brew outdated.
+/usr/local/bin/system_state: line 12: [: missing `]'
+fatal error
+brew untap homebrew/cask
 
