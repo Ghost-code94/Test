@@ -1,4 +1,4 @@
-  brew untap homebrew/core
-  brew untap homebrew/cask
-Already up-to-date.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /opt/homebrew/Cellar/awscli/2.15.12... (13,342 files, 118.7MB)
+Removing: /Users/ghost/Library/Caches/Homebrew/awscli--2.15.12... (18.4MB)
 
