@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Already: command not found
+/usr/local/bin/system_state: line 12: [or: command not found
 fatal error
-Already up-to-date.
+or list it with brew outdated.
 
