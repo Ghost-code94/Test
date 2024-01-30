@@ -1,4 +1,4 @@
-
-Error: Another active Homebrew update process is already in progress.
-Please wait for it to finish or terminate it to continue.
+/usr/local/bin/system_state: line 12: [Already: command not found
+fatal error
+Already up-to-date.
 
