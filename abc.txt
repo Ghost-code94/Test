@@ -1,4 +1,4 @@
-Date: Wed, 31 Jan 2024 11:45:05 -0600 (CST)
-
-Already up-to-date.
+Removing: /opt/homebrew/Cellar/openssl@3/3.2.0_1... (6,805 files, 31.9MB)
+Removing: /Users/ghost/Library/Caches/Homebrew/openssl@3--3.2.0... (9.4MB)
+Removing: /Users/ghost/Library/Caches/Homebrew/openssl@3--3.2.0_1... (9.4MB)
 
