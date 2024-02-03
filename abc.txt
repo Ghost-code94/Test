@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [: missing `]'
+/usr/local/bin/system_state: line 12: [brew: command not found
 fatal error
 brew untap homebrew/cask
 
