@@ -1,4 +1,4 @@
-Date: Wed,  7 Feb 2024 09:00:06 -0600 (CST)
-
-Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+cekit
 
