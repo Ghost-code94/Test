@@ -1,4 +1,4 @@
-==> New Formulae
-ignite
+/usr/local/bin/system_state: line 12: [kubetui=Already up-to-date.]: command not found
+fatal error
 kubetui
 
