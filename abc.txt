@@ -1,4 +1,4 @@
-You have 2 outdated formulae installed.
-You can upgrade them with brew upgrade
-or list them with brew outdated.
+
+Error: Another active Homebrew update process is already in progress.
+Please wait for it to finish or terminate it to continue.
 
