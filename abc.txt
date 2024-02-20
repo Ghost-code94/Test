@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/cask).
-==> New Casks
+/usr/local/bin/system_state: line 12: [dnsmonitor=Already up-to-date.]: command not found
+fatal error
 dnsmonitor
 
