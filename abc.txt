@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
+/usr/local/bin/system_state: line 12: [neosync=Already up-to-date.]: command not found
+fatal error
 neosync
 
