@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-glasskube
+Date: Mon, 19 Feb 2024 18:45:06 -0600 (CST)
+
+Already up-to-date.
 
