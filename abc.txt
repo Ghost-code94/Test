@@ -1,4 +1,4 @@
-You can save space and time by running:
-  brew untap homebrew/core
-  brew untap homebrew/cask
+You have 5 outdated formulae installed.
+You can upgrade them with brew upgrade
+or list them with brew outdated.
 
