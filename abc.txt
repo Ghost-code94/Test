@@ -1,4 +1,4 @@
-/usr/local/bin/system_state: line 12: [Already: command not found
-fatal error
-Already up-to-date.
+  brew untap homebrew/core
+  brew untap homebrew/cask
+Updated 1 tap (homebrew/core).
 
