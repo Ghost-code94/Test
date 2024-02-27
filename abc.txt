@@ -1,4 +1,4 @@
-apidog-europe
-motion
-youlean-loudness-meter
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+lsusb-laniksj
 
