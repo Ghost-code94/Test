@@ -1,4 +1,4 @@
-Updated 1 tap (homebrew/core).
-==> New Formulae
-pass-import
+Date: Tue, 27 Feb 2024 14:00:03 -0600 (CST)
+
+Already up-to-date.
 
