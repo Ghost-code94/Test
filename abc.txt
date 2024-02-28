@@ -1,4 +1,4 @@
-Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-Removing: /opt/homebrew/Cellar/xz/5.4.5... (163 files, 2.6MB)
+/usr/local/bin/system_state: line 12: [Removing:: command not found
+fatal error
 Removing: /Users/ghost/Library/Caches/Homebrew/xz--5.4.5... (671.6KB)
 
