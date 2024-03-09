@@ -1,4 +1,4 @@
-You have 2 outdated formulae installed.
+You have 3 outdated formulae installed.
 You can upgrade them with brew upgrade
 or list them with brew outdated.
 
